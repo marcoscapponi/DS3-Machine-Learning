@@ -1,4 +1,7 @@
-[test.csv](https://github.com/user-attachments/files/20370104/test.csv)# DS3-Machine-Learning
+[test.csv](https://github.com/user-attachments/files/20370104/test.csv) 
+Este es e; archivo utilizado
+
+DS3-Machine-Learning
 
 En este proyecto buscaremos predecir en una manera general, de que esta hablando la noticia.
 Estamos analizando un dataset de 7600 noticias, en las que tenemos 1900 noticias de deportes(sports), ciencia y tecnologia(sci/tech), negocios(business) y mundial(world).
