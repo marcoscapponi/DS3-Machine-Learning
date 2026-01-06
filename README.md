@@ -19,3 +19,5 @@ For the sports category, we applied the TF-IDF methodology and compared three di
 In the final case study, we aimed to identify whether sci/tech news articles were related to artificial intelligence. To do this, we vectorized the text and applied a Random Forest Classifier, enhanced with GridSearchCV for hyperparameter tuning. This approach delivered near-perfect results, with an accuracy of 0.99.
 🔮 Future Outlook
 If we scale this project to a larger dataset with more news articles, we’ll need to carefully evaluate model performance and, if necessary, adjust parameters or explore alternative models to maintain high accuracy levels.
+
+link: https://colab.research.google.com/drive/15HV0vB5C2nJikvSXT5mzuk-vDhieCVU4
